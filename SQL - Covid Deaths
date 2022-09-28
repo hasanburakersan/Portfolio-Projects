@@ -70,4 +70,4 @@ having population>10000000 and continent is not null
 order by deaths_per_population desc
 
 -- Great!
--- Time to turn focus on vaccinations
+
